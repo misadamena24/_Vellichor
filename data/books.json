@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1,
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "description": "A classic novel about love, society, and personal growth.",
+        "genre": "Romance",
+        "available": false
+    },
+    {
+        "id": 2,
+        "name": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "description": "A dystopian novel about surveillance, control, and totalitarianism.",
+        "genre": "Dystopian",
+        "available": false
+    },
+    {
+        "id": 3,
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "description": "A powerful story of justice, childhood, and moral courage in the American South.",
+        "genre": "Classic",
+        "available": false
+    },
+    {
+        "id": 4,
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "description": "A novel of wealth, longing, and illusion in the glittering Jazz Age.",
+        "genre": "Classic",
+        "available": false
+    },
+    {
+        "id": 5,
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "year": 1937,
+        "description": "A fantasy adventure following Bilbo Baggins on an unexpected journey.",
+        "genre": "Fantasy",
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "description": "A coming-of-age novel exploring alienation, identity, and youth.",
+        "genre": "Fiction",
+        "available": false
+    },
+    {
+        "id": 7,
+        "name": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": 1932,
+        "description": "A futuristic novel about technology, control, and the cost of comfort.",
+        "genre": "Dystopian",
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "year": 1847,
+        "description": "A deeply emotional novel about independence, love, and resilience.",
+        "genre": "Romance",
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "The Book Thief",
+        "author": "Markus Zusak",
+        "year": 2005,
+        "description": "A moving story about words, loss, and humanity during World War II.",
+        "genre": "Historical Fiction",
+        "available": false
+    },
+    {
+        "id": 10,
+        "name": "Little Women",
+        "author": "Louisa May Alcott",
+        "year": 1868,
+        "description": "A beloved novel about family, ambition, and the lives of four sisters.",
+        "genre": "Classic",
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "year": 1811,
+        "description": "A romance of two sisters balancing reason, emotion, and social expectation.",
+        "genre": "Romance",
+        "available": false
+    },
+    {
+        "id": 12,
+        "name": "Persuasion",
+        "author": "Jane Austen",
+        "year": 1817,
+        "description": "A mature love story about second chances, regret, and constancy.",
+        "genre": "Romance",
+        "available": false
+    },
+    {
+        "id": 13,
+        "name": "Homage to Catalonia",
+        "author": "George Orwell",
+        "year": 1938,
+        "description": "A politically sharp narrative about war, ideology, and disillusionment.",
+        "genre": "Dystopian",
+        "available": false
+    },
+    {
+        "id": 14,
+        "name": "Go Set a Watchman",
+        "author": "Harper Lee",
+        "year": 2015,
+        "description": "A reflective classic revisiting familiar characters and difficult moral questions.",
+        "genre": "Classic",
+        "available": false
+    },
+    {
+        "id": 15,
+        "name": "The Fellowship of the Ring",
+        "author": "J.R.R. Tolkien",
+        "year": 1954,
+        "description": "The opening epic of a perilous journey across Middle-earth.",
+        "genre": "Fantasy",
+        "available": false
+    },
+    {
+        "id": 16,
+        "name": "Nine Stories",
+        "author": "J.D. Salinger",
+        "year": 1953,
+        "description": "A fiction collection exploring loneliness, innocence, and postwar life.",
+        "genre": "Fiction",
+        "available": true
+    },
+    {
+        "id": 17,
+        "name": "Shirley",
+        "author": "Charlotte Bronte",
+        "year": 1849,
+        "description": "A romance set amid social unrest, independence, and emotional resilience.",
+        "genre": "Romance",
+        "available": false
+    },
+    {
+        "id": 18,
+        "name": "Jo's Boys",
+        "author": "Louisa May Alcott",
+        "year": 1886,
+        "description": "A classic continuation of the March family world and its grown-up dilemmas.",
+        "genre": "Classic",
+        "available": true
+    },
+    {
+        "id": 19,
+        "name": "MISADa",
+        "author": "12",
+        "year": 2002,
+        "description": "misada",
+        "genre": "romance",
+        "available": true
+    }
+]
