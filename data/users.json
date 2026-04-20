@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "libraryId": "00000",
+        "name": "Admin",
+        "surname": "User",
+        "email": "admin@vellichor.local",
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin",
+        "points": 0
+    },
+    {
+        "id": 2,
+        "libraryId": "10001",
+        "name": "Member",
+        "surname": "One",
+        "email": "member1@vellichor.local",
+        "username": "member1",
+        "password": "member123",
+        "role": "member",
+        "points": 10,
+        "bio": "neomi"
+    },
+    {
+        "id": 3,
+        "libraryId": "96412",
+        "name": "Misada",
+        "surname": "Mena",
+        "email": "misadamena5@gmail.com",
+        "username": "mmena",
+        "password": "12345678",
+        "role": "member",
+        "points": 0
+    },
+    {
+        "id": 5,
+        "libraryId": "80601",
+        "name": "inva",
+        "surname": "xherri",
+        "email": "ixherri24@epoka.edu.al",
+        "username": "invaa",
+        "password": "invadevi12",
+        "role": "member",
+        "points": 0,
+        "bio": "inva is the best"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "userId": 2,
+        "bookId": 1,
+        "rating": 5,
+        "comment": "123"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "bookId": 2,
+        "rating": 3,
+        "comment": "it was an interesting book"
+    },
+    {
+        "id": 3,
+        "userId": 2,
+        "bookId": 3,
+        "rating": 3,
+        "comment": "ada"
+    },
+    {
+        "id": 4,
+        "userId": 2,
+        "bookId": 5,
+        "rating": 5,
+        "comment": "okay"
+    },
+    {
+        "id": 5,
+        "userId": 3,
+        "bookId": 1,
+        "rating": 4,
+        "comment": "Beautiful writing and timeless characters."
+    },
+    {
+        "id": 7,
+        "userId": 3,
+        "bookId": 5,
+        "rating": 5,
+        "comment": "An amazing adventure."
+    },
+    {
+        "id": 9,
+        "userId": 2,
+        "bookId": 6,
+        "rating": 5,
+        "comment": "good book"
+    }
+]
