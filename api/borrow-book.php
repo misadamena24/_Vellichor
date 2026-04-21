@@ -1,7 +1,4 @@
 <?php
-// API endpoint: borrow a book
-// TODO: implement borrow book logic
-<?php
 header('Content-Type: application/json');
 date_default_timezone_set('Europe/Tirane');
 
