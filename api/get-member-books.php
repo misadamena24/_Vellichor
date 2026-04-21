@@ -1,7 +1,4 @@
 <?php
-// API endpoint: get member books
-// TODO: implement logic to return books borrowed by a member
-<?php
 header('Content-Type: application/json');
 
 $booksPath = "../data/books.json";
