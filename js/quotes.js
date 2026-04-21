@@ -45,7 +45,6 @@
         authorElement.textContent = randomQuote.author;
       })
       .catch(function () {
-        // Keep the static fallback quote already rendered in the page.
       });
   };
 
