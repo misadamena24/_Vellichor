@@ -1,7 +1,4 @@
 <?php
-// API endpoint: remove member from waitlist
-// TODO: implement waitlist removal logic
-<?php
 header('Content-Type: application/json');
 
 $usersPath = "../data/users.json";
